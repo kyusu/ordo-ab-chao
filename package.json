@@ -1,0 +1,29 @@
+{
+    "name": "ordo-ab-chao",
+    "version": "0.0.1",
+    "description": "Encyclopaedia Metallum Genre Classifier",
+    "main": "index.js",
+    "scripts": {
+        "test": "test",
+        "lint": "eslint ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kyusu/ordo-ab-chao.git"
+    },
+    "author": "急須",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kyusu/ordo-ab-chao/issues"
+    },
+    "homepage": "https://github.com/kyusu/ordo-ab-chao#readme",
+    "devDependencies": {
+        "eslint": "^5.16.0",
+        "eslint-plugin-cleanjs": "github:kyusu/eslint-plugin-cleanjs",
+        "tape": "^4.10.2"
+    },
+    "dependencies": {
+        "crocks": "^0.11.1",
+        "ramda": "^0.26.1"
+    }
+}

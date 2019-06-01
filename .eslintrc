@@ -1,0 +1,21 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "cleanjs"
+    ],
+    "extends": "plugin:cleanjs/recommended",
+    "rules": {
+        "import/no-commonjs": [
+            0
+        ],
+        "cleanjs/no-mutation": [
+            "error",
+            {
+                "commonjs": true
+            }
+        ]
+    }
+}

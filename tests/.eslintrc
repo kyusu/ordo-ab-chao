@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "cleanjs/no-unused-expression": [
+            0
+        ],
+        "cleanjs/must-return": [
+            0
+        ]
+    }
+}
