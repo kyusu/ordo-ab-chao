@@ -4,6 +4,6 @@ const {getIsMetalSubGenrePredicate} = require('./isMetal.js');
 
 const heavyOrNWOBHM = R.either(R.test(/heavy/), R.test(/nwobhm/));
 
-const isHeavyMetal = getIsMetalSubGenrePredicate(Pred(heavyOrNWOBHM).contramap(R.tap(console.log)));
+const isHeavyMetal = getIsMetalSubGenrePredicate(Pred(heavyOrNWOBHM));
 
 module.exports = isHeavyMetal;
