@@ -4,7 +4,7 @@ Encyclopaedia Metallum Genre Classifier
 ## Purpose
 
 I wanted to do some statistics with the data from the [Encyclopaedia Metallum](https://www.metal-archives.com), but
-quickly discovered that the *genre* is a free text fields, so for 120.000 plus bands, I found 8.500 plus genres with
+quickly discovered that the *genre* is a free text field, so for 120.000 plus bands, I found 8.500 plus genres with
 such gems as `Thrash Metal (1986-1988), Death Metal (1989-1991, 2008-), Progressive Death Metal/Jazz Fusion (1993)`.
 
 This would not do, so I wrote a bunch of classifiers for the following genres:
