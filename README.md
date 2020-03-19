@@ -1,4 +1,6 @@
 # ordo-ab-chao
+[![Maintainability](https://api.codeclimate.com/v1/badges/3579410cd123c5b893a8/maintainability)](https://codeclimate.com/github/kyusu/ordo-ab-chao/maintainability)
+
 Encyclopaedia Metallum Genre Classifier
 
 ## Purpose
