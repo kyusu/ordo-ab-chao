@@ -1,5 +1,7 @@
 # ordo-ab-chao
 [![Maintainability](https://api.codeclimate.com/v1/badges/3579410cd123c5b893a8/maintainability)](https://codeclimate.com/github/kyusu/ordo-ab-chao/maintainability)
+[![dependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/status.svg)](https://david-dm.org/kyusu/ordo-ab-chao)
+
 
 Encyclopaedia Metallum Genre Classifier
 
