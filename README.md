@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.com/kyusu/ordo-ab-chao.svg?branch=master)](https://travis-ci.com/kyusu/ordo-ab-chao)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3579410cd123c5b893a8/maintainability)](https://codeclimate.com/github/kyusu/ordo-ab-chao/maintainability)
 [![dependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/status.svg)](https://david-dm.org/kyusu/ordo-ab-chao)
+[![devDependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/dev-status.svg)](https://david-dm.org/kyusu/ordo-ab-chao?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/kyusu/ordo-ab-chao/badge.svg)](https://coveralls.io/github/kyusu/ordo-ab-chao)
 
 
