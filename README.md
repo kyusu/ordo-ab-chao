@@ -4,6 +4,7 @@
 [![dependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/status.svg)](https://david-dm.org/kyusu/ordo-ab-chao)
 [![devDependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/dev-status.svg)](https://david-dm.org/kyusu/ordo-ab-chao?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/kyusu/ordo-ab-chao/badge.svg)](https://coveralls.io/github/kyusu/ordo-ab-chao)
+![Node.js CI](https://github.com/kyusu/ordo-ab-chao/workflows/Node.js%20CI/badge.svg)
 
 
 Encyclopaedia Metallum Genre Classifier
