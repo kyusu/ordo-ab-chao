@@ -5,6 +5,9 @@
 [![devDependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/dev-status.svg)](https://david-dm.org/kyusu/ordo-ab-chao?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/kyusu/ordo-ab-chao/badge.svg)](https://coveralls.io/github/kyusu/ordo-ab-chao)
 ![Node.js CI](https://github.com/kyusu/ordo-ab-chao/workflows/Node.js%20CI/badge.svg)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kyusu/ordo-ab-chao/graphs/commit-activity)
+[![GitHub license](https://img.shields.io/github/license/kyusu/ordo-ab-chao.svg)](https://github.com/kyusu/ordo-ab-chao/blob/master/LICENSE)
+[![DeepScan grade](https://deepscan.io/api/teams/10488/projects/13337/branches/220799/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10488&pid=13337&bid=220799)
 
 
 Encyclopaedia Metallum Genre Classifier
