@@ -1,5 +1,4 @@
 # ordo-ab-chao
-[![Build Status](https://travis-ci.com/kyusu/ordo-ab-chao.svg?branch=master)](https://travis-ci.com/kyusu/ordo-ab-chao)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3579410cd123c5b893a8/maintainability)](https://codeclimate.com/github/kyusu/ordo-ab-chao/maintainability)
 [![dependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/status.svg)](https://david-dm.org/kyusu/ordo-ab-chao)
 [![devDependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/dev-status.svg)](https://david-dm.org/kyusu/ordo-ab-chao?type=dev)
@@ -8,6 +7,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kyusu/ordo-ab-chao/graphs/commit-activity)
 [![GitHub license](https://img.shields.io/github/license/kyusu/ordo-ab-chao.svg)](https://github.com/kyusu/ordo-ab-chao/blob/master/LICENSE)
 [![DeepScan grade](https://deepscan.io/api/teams/10488/projects/13337/branches/220799/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=10488&pid=13337&bid=220799)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=kyusu_ordo-ab-chao&metric=alert_status)](https://sonarcloud.io/dashboard?id=kyusu_ordo-ab-chao)
 
 
 Encyclopaedia Metallum Genre Classifier
