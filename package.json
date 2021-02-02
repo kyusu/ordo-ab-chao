@@ -22,7 +22,7 @@
     "devDependencies": {
         "coveralls": "3.1.0",
         "eslint": "7.18.0",
-        "eslint-plugin-cleanjs": "github:kyusu/eslint-plugin-cleanjs",
+        "eslint-plugin-cleanjs": "github:eslint-plugin-cleanjs/eslint-plugin-cleanjs",
         "husky": "4.3.8",
         "nyc": "15.1.0",
         "tape": "5.1.1"
