@@ -1,5 +1,5 @@
 {
-    "name": "ordo-ab-chao",
+    "name": "@kyusu/ordo-ab-chao",
     "version": "0.0.1",
     "description": "Encyclopaedia Metallum Genre Classifier",
     "main": "index.js",
