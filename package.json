@@ -3,12 +3,18 @@
     "version": "0.0.1",
     "description": "Encyclopaedia Metallum Genre Classifier",
     "main": "index.js",
+    "types": "index.d.ts",
     "scripts": {
         "test": "nyc tape tests/**/*.js",
         "lint": "eslint .",
         "pre-commit": "npm run lint && npm test",
         "pre-push": "npm run lint && npm test"
     },
+    "files": [
+        "index.js",
+        "index.d.ts",
+        "src"
+    ],
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kyusu/ordo-ab-chao.git"
