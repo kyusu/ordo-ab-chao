@@ -4,6 +4,9 @@
     "description": "Encyclopaedia Metallum Genre Classifier",
     "main": "index.js",
     "types": "index.d.ts",
+    "publishConfig": {
+        "access": "public"
+    },
     "scripts": {
         "test": "nyc tape tests/**/*.js",
         "lint": "eslint .",
