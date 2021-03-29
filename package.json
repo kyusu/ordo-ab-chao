@@ -32,7 +32,7 @@
         "coveralls": "3.1.0",
         "eslint": "7.23.0",
         "eslint-plugin-cleanjs": "github:eslint-plugin-cleanjs/eslint-plugin-cleanjs",
-        "husky": "5.2.0",
+        "husky": "6.0.0",
         "nyc": "15.1.0",
         "tape": "5.2.2"
     },
