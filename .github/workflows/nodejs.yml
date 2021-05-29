@@ -25,6 +25,12 @@ jobs:
     - run: npm test
       env:
         CI: true
+    - run: npm run report:coverage
+    - name: Coveralls
+      uses: coverallsapp/github-action@master
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+
 
   sonarcloud:
     runs-on: ubuntu-latest

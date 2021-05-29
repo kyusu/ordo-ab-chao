@@ -8,7 +8,8 @@
         "access": "public"
     },
     "scripts": {
-        "test": "nyc tape tests/**/*.js",
+        "test": "c8 --all tape tests/**/*.js",
+        "report:coverage": "c8 report --reporter=lcov",
         "lint": "eslint .",
         "pre-commit": "npm run lint && npm test",
         "pre-push": "npm run lint && npm test"
@@ -29,15 +30,14 @@
     },
     "homepage": "https://github.com/kyusu/ordo-ab-chao#readme",
     "devDependencies": {
-        "coveralls": "3.1.0",
+        "c8": "7.7.2",
         "eslint": "7.27.0",
         "eslint-plugin-cleanjs": "github:eslint-plugin-cleanjs/eslint-plugin-cleanjs",
         "husky": "6.0.0",
-        "nyc": "15.1.0",
         "tape": "5.2.2"
     },
     "dependencies": {
-        "crocks": "^0.12.4",
-        "ramda": "^0.27.0"
+        "crocks": "0.12.4",
+        "ramda": "0.27.0"
     }
 }
