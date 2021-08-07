@@ -34,7 +34,7 @@
         "eslint": "7.32.0",
         "eslint-plugin-cleanjs": "github:eslint-plugin-cleanjs/eslint-plugin-cleanjs",
         "husky": "7.0.1",
-        "tape": "5.3.0"
+        "tape": "5.3.1"
     },
     "dependencies": {
         "crocks": "0.12.4",
