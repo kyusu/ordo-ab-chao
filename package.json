@@ -31,7 +31,7 @@
     "homepage": "https://github.com/kyusu/ordo-ab-chao#readme",
     "devDependencies": {
         "c8": "7.10.0",
-        "eslint": "7.32.0",
+        "eslint": "8.0.0",
         "eslint-plugin-cleanjs": "github:eslint-plugin-cleanjs/eslint-plugin-cleanjs",
         "husky": "7.0.2",
         "tape": "5.3.1"
