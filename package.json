@@ -33,7 +33,7 @@
         "c8": "7.11.2",
         "eslint": "8.15.0",
         "eslint-plugin-cleanjs": "github:eslint-plugin-cleanjs/eslint-plugin-cleanjs",
-        "husky": "7.0.4",
+        "husky": "8.0.1",
         "tape": "5.5.3"
     },
     "dependencies": {
