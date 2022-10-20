@@ -1,7 +1,6 @@
 # ordo-ab-chao
 [![Maintainability](https://api.codeclimate.com/v1/badges/3579410cd123c5b893a8/maintainability)](https://codeclimate.com/github/kyusu/ordo-ab-chao/maintainability)
-[![dependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/status.svg)](https://david-dm.org/kyusu/ordo-ab-chao)
-[![devDependencies Status](https://david-dm.org/kyusu/ordo-ab-chao/dev-status.svg)](https://david-dm.org/kyusu/ordo-ab-chao?type=dev)
+[![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/kyusu/ordo-ab-chao)](https://libraries.io/github/kyusu/picindren)
 [![Coverage Status](https://coveralls.io/repos/github/kyusu/ordo-ab-chao/badge.svg)](https://coveralls.io/github/kyusu/ordo-ab-chao)
 ![Node.js CI](https://github.com/kyusu/ordo-ab-chao/workflows/Node.js%20CI/badge.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kyusu/ordo-ab-chao/graphs/commit-activity)
